@@ -4,5 +4,5 @@ node.js index.js
 ```
 Для прохождения тестов
 ```
-run test
+npm test
 ```
